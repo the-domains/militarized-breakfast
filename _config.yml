@@ -1,0 +1,14 @@
+layout_spectrum: 0.7832671981304884
+typography_spectrum: 0.4670217854436487
+color:
+  brandStrength: 0.4147677847649902
+  lightness: 0.3306978871114552
+  saturation: 0.42733774706721306
+  rhythmicContrast: 0.988739624619484
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: militarized breakfast
